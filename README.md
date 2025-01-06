@@ -1,5 +1,6 @@
 # 🔮 Welcome to SavvyBooks
-This is single point of documentation for SavvyBooks
+This is the single point of documentation for SavvyBooks
 
-[Savvybooks.io](https://www.savvybooks.io/)
+The deployment runs on commit to main
+[Docs](https://savvybooks.github.io/docs/)
 
