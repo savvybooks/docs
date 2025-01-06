@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Project Documentation
 description: Comprehensive documentation for the project
-baseurl: "/docs"
+baseurl: "/docs/index"
